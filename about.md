@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Personal
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+My personal blog and wiki.  My initial intent for this site is to document my research into science, religion, and life.  After being raised as a Christian, then becoming an Atheist, I would like to revisit some of my past thinking, explore new information, and systematically record the results.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+# Professional
+
+I am the Manager for Software Systems Development and Research at the University of Maryland Libraries.
+
+* [Blog](https://dssumd.wordpress.com/author/wallbergumd/)
+* [ORCID](http://orcid.org/0000-0002-4904-005X)
+* [wallberg@umd.edu](mailto:wallberg@umd.edu)
