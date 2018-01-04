@@ -1,2 +1,3 @@
-# bliki
-Ben Wallberg's blog and wiki
+# Ben Wallberg's blog and wiki
+
+https://bwallberg.neocities.org/
