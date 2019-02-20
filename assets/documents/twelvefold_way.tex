@@ -1,0 +1,157 @@
+\documentclass[]{article}
+
+\usepackage[top=0.5in, bottom=0.5in, left=0.5in, right=0.25in]{geometry}
+\usepackage{mathtools}
+\usepackage{color, colortbl}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage[english]{babel}
+\usepackage{biblatex}
+
+\addbibresource{twelvefold_way.bib}
+
+% Falling Factorial
+\newcommand{\fallingfactorial}[1]{%
+  ^{\mspace{1mu}\underline{#1\mspace{-2mu}}\mspace{2mu}}%
+}
+
+% Stirling number of the second kind
+\newcommand{\stirlingii}{\genfrac{\{}{\}}{0pt}{}}
+
+% Color definition
+\definecolor{Gray}{gray}{0.9}
+
+% Document
+\begin{document}
+
+\title{The Twelvefold Way}
+\author{Ben Wallberg}
+\maketitle
+
+\begin{abstract}
+In combinatorics, the twelvefold way is a systematic classification of 12 related enumerative problems concerning two finite sets, which include the classical problems of counting permutations, combinations, multisets, and partitions either of a set or of a number. This is my cheat sheet, compiled from Stanley \cite{stanley_enumerative_1997} by way of Knuth \cite{knuth_art_2011} and Wikipedia \cite{noauthor_twelvefold_nodate}, et al. I use this aid to help me understand and solve Project Euler \cite{noauthor_project_nodate} problems.  Project Euler is a series of challenging mathematical/computer programming problems that require more than just mathematical insights to solve. 
+\end{abstract}
+
+% The Table
+\begin{tabular}{ | p{.6in} | p{0.9in} || p{1.7in} | p{1.7in} | p{1.7in} |  }
+
+\hline
+
+% Headings
+
+\rowcolor{Gray} 
+\textbf{\em{f}-class}
+& 
+& \textbf{Any $f$} 
+&  \textbf{Injective $f$} 
+& \textbf{Surjective $f$} 
+\\
+
+& \textbf{\em{balls per urn}} 
+& \textbf{unrestricted} 
+& \textbf{$\leq$ 1} 
+& \textbf{$\geq$ 1} 
+\\
+
+\hline
+
+% Row 1
+
+\rowcolor{Gray} 
+$f$
+&
+& $n$-sequence in $\mathbf{X}$
+& $n$-permutation of $\mathbf{X}$
+& composition of $\mathbf{N}$ with $x$ subsets
+\\
+
+& $n$ labeled balls, $m$ labeled urns
+& $n$-tuples of $m$ things
+& $n$-permutation of $m$ things
+& partitions of $\{1,\ldots,n\}$ into $m$ ordered parts
+\\
+
+&
+& $$x^n$$
+& $$x\fallingfactorial{n}$$
+& $$x! \stirlingii{n}{x}$$
+\\
+
+\hline
+
+% Row 2
+
+\rowcolor{Gray} 
+$f \circ \mathbf{S}_n$
+&
+& $n$-multisubset of $\mathbf{X}$ 
+& $n$-subset of $\mathbf{X}$ 
+& composition of $n$ with $x$ terms
+\\
+
+& $n$ unlabeled balls, $m$ labeled urns
+& $n$-multicombinations of $m$ things
+& $n$-combinations of $m$ things
+& compositions of $n$ into $m$ parts
+\\
+
+&
+& $$\binom{x+n-1}{n}$$
+& $$\binom{x}{n}$$
+& $$\binom{n-1}{n-x}$$
+\\
+
+\hline
+
+% Row 3
+
+\rowcolor{Gray} 
+$\mathbf{S}_x \circ f$
+&
+& partition of $\mathbf{N}$ into $\leq x$ subsets
+& partition of $\mathbf{N}$ into $\leq x$ elements
+& partition of $\mathbf{N}$ into $x$ subsets
+\\
+
+& $n$ labeled balls, $m$ unlabeled urns
+& partitions of $\{1,\ldots,n\}$ into $\leq m$ parts
+& $n$ pigeons into $m$ holes
+& partitions of $\{1,\ldots,n\}$ into $m$ parts
+\\
+
+&
+& $$\sum_{k=0}^{x} \stirlingii{n}{x}$$
+& $$[n \leq x]$$
+& $$\stirlingii{n}{x}$$
+\\
+
+\hline
+
+%Row 4
+
+\rowcolor{Gray} 
+$\mathbf{S}_x \circ f \circ \mathbf{S}_n$
+&
+& partition of $n$ into $\leq x$ parts
+& partition of $n$ into $\leq x$ parts 1
+& partition of $n$ into $x$ parts
+\\
+
+& $n$ unlabeled balls, $m$ unlabeled urns
+& partitions of $n$ into $\leq m$ parts
+& $n$ pigeons into $m$ holes
+& partitions of $n$ into $m$ parts
+\\
+
+& 
+& $$p_x(n+x)$$
+& $$[n \leq x]$$
+& $$p_x(n)$$
+\\
+
+\hline
+\end{tabular}
+
+\printbibliography
+
+\end{document}
