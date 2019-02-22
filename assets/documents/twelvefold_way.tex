@@ -18,6 +18,9 @@
 % Stirling number of the second kind
 \newcommand{\stirlingii}{\genfrac{\{}{\}}{0pt}{}}
 
+% Multichoose for multisets
+\newcommand{\multichoose}[2]{\bigg(\!\!\dbinom{#1}{#2}\!\!\bigg)}
+
 % Color definition
 \definecolor{Gray}{gray}{0.9}
 
@@ -96,9 +99,9 @@ $f \circ \mathbf{S}_n$
 \\
 
 &
-& $$\binom{x+n-1}{n}$$
+& $$\multichoose{x}{n}$$
 & $$\binom{x}{n}$$
-& $$\binom{n-1}{n-x}$$
+& $$\multichoose{x}{n-x}$$
 \\
 
 \hline
@@ -152,6 +155,94 @@ $\mathbf{S}_x \circ f \circ \mathbf{S}_n$
 \hline
 \end{tabular}
 
+\newpage
+
+% Equations of Interest
+
+\section*{Equations of Interest}
+
+\begin{description}
+
+\item [Falling Factorial] or the first $n$ elements of $x!$ \\
+
+$$x\fallingfactorial{n} = \frac{x!}{(x-n)!} = x(x-1)(x-2)\cdots(x-n+1)$$
+
+\item [Binomial Coefficient] (aka n choose k)
+
+$$\binom{n}{k} =  \frac{n!}{k!(n-k)!} = \frac{n\fallingfactorial{k}}{k!}$$
+
+The recurrence relation for Pascal's Triangle:
+
+$$\binom{n}{k} = \binom{n-1}{k} + \binom{n-1}{k-1}$$
+
+\item [Multiset] (aka bag or multicombination) is modification of the concept of a set that allows for multiple instances of its elements
+
+$$\multichoose{n}{k} = \binom{n+k-1}{k} = \frac{n\fallingfactorial{k}}{k!}$$
+
+$$\multichoose{x}{n-x} = \binom{n-1}{n-x}$$
+
+\item [Stirling number of the second kind] (or Stirling partition number) is the number of ways to partition a set of n objects into k non-empty subsets
+
+$$\stirlingii{n}{k} = \frac{1}{k!}\sum_{i=0}^{k}{(-1)^i \binom{k}{i} (k-i)^n}$$
+
+$$\sum_{k=0}^{n}{\stirlingii{n}{k} x\fallingfactorial{k}} = x^n$$
+
+Bell number is the total number of partitions of a set with $n$ members over all values of $k$
+
+$$B_n = \sum_{k=0}^{n} \stirlingii{n}{k}$$
+
+\end{description}
+
+% Details
+\section*{Details}
+
+\begin{description}
+
+\item [$n$-sequence in $\mathbf{X}$] ($f$, \textbf{Any $f$})
+\\ $x^n$
+\\ \texttt{itertools.product(range(x), repeat=n)}
+
+\item [$n$-permutation of $\mathbf{X}$] ($f$, \textbf{Injective $f$})
+\\ $x\fallingfactorial{n}$
+\\ \texttt{itertools.permutations(range(x), n)}
+
+\item [composition of $\mathbf{N}$ with $x$ subsets] $f$, \textbf{Surjective $f$}
+\\ $x! \stirlingii{n}{x}$
+
+\item [$n$-multisubset of $\mathbf{X}$] $f \circ \mathbf{S}_n$, \textbf{Any $f$}
+\\ $\multichoose{x}{n}$
+
+\item [$n$-subset of $\mathbf{X}$] $f \circ \mathbf{S}_n$, \textbf{Injective $f$}
+\\ $\binom{x}{n}$
+\\ \texttt{itertools.combinations(range(x), n)}
+
+\item [composition of $n$ with $x$ terms] $f \circ \mathbf{S}_n$, \textbf{Surjective $f$}
+\\ $\multichoose{x}{n-x}$
+
+\item [partition of $\mathbf{N}$ into $\leq x$ subsets] $\mathbf{S}_x \circ f$, \textbf{Any $f$}
+\\ $\sum_{k=0}^{x} \stirlingii{n}{x}$
+
+\item [partition of $\mathbf{N}$ into $\leq x$ elements] $\mathbf{S}_x \circ f$, \textbf{Injective $f$}
+\\ $[n \leq x]$
+
+\item [partition of $\mathbf{N}$ into $x$ subsets] $\mathbf{S}_x \circ f$, \textbf{Surjective $f$}
+\\ $\stirlingii{n}{x}$
+
+\item [\textbf{Any $f$}, partition of $n$ into $\leq x$ parts] [$\mathbf{S}_x \circ f \circ \mathbf{S}_n$
+\\ $p_x(n+x)$
+
+\item [partition of $n$ into $\leq x$ parts 1] $\mathbf{S}_x \circ f \circ \mathbf{S}_n$, \textbf{Injective $f$}
+\\ $[n \leq x]$
+
+\item [partition of $n$ into $x$ parts] $\mathbf{S}_x \circ f \circ \mathbf{S}_n$, \textbf{Surjective $f$}
+\\ $p_x(n)$
+
+\end{description}
+
+
+
+
+% Bibliography
 \printbibliography
 
 \end{document}

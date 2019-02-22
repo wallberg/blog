@@ -1,3 +1,12 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# TeX intermediate files
+*.blg
+*.bbl
+*.aux
+*.bcf
+*.log
+*.run.xml
+*.synctex.gz
