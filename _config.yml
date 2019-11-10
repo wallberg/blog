@@ -30,3 +30,18 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  # LaTeX-to-PDF source and intermediate files
+  - assets/**/*.tex
+  - assets/**/*.bib
+  - assets/**/*.blg
+  - assets/**/*.run.xml
+  - assets/**/*.bbl
+  - assets/**/*.bcf
+  - assets/**/*.synctex.gz
+  - assets/**/*.aux
+  - assets/**/*.log
+
+
+# jekyll-scholar
+scholar:
+  sort_by: author, year

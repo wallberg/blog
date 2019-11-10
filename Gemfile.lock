@@ -88,6 +88,7 @@ DEPENDENCIES
   jekyll (= 4.0.0)
   jekyll-feed (~> 0.6)
   jekyll-scholar
+  jekyll-seo-tag
   minima
   tzinfo-data
 
