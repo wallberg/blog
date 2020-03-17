@@ -10,10 +10,10 @@ The Clock of the Long now
 
 Persistence and Libraries
 
-[Project Euler](https://projecteuler.net/) 
+[Project Euler](https://projecteuler.net/)
 
 {% cite knuth_art_2011 --suppress_author %}
 
-# References
+## References
 
 {% bibliography --cited_in_order %}
