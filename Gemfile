@@ -30,3 +30,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Fix for CVE-2019-10780
+# https://github.com/advisories/GHSA-c5r5-7pfh-6qg6
+gem "bibtex-ruby", ">= 5.1.0"
