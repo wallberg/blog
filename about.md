@@ -13,5 +13,5 @@ My personal blog and wiki.  My initial intent for this site is to document my re
 I am the Manager for Software Systems Development and Research at the University of Maryland Libraries.
 
 * [Blog](https://dssumd.wordpress.com/author/wallbergumd/)
-* [ORCID](http://orcid.org/0000-0002-4904-005X)
+* [ORCID](https://orcid.org/0000-0002-4904-005X)
 * [wallberg@umd.edu](mailto:wallberg@umd.edu)
