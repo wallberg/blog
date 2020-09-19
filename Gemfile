@@ -34,3 +34,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Fix for CVE-2019-10780
 # https://github.com/advisories/GHSA-c5r5-7pfh-6qg6
 gem "bibtex-ruby", ">= 5.1.0"
+
+# Fix for CVE-2020-14001
+# https://github.com/advisories/GHSA-mqm2-cgpr-p4m6
+gem "kramdown", ">= 2.3.0"
