@@ -18,11 +18,17 @@ Crisis of Faith, Scientific Search, Electrical Engineer as Outsider
 
 Challenge of looking closely [^decision].
 
+The author argues he is an outsider, able to see new insights in genetics, communication theory, and bioinformatics.
+
 ## Summary
 
 From the Introduction:
 
 > In this book, I offer a 2.0 version of evolution, a brand new paradigm for biology. I will show you that scientists create new species in the lab every day, and I'll show you how they do it. I'll also demonstrate that to the extent science can prove anything, science proves design in DNA. In other words, I'll prove that both sides, the Creationists and the Darwinists, are right. {% cite marshallEvolutionBreakingDeadlock2015 -l xxvi %}
+
+is "prove" a little strong?
+
+{% include note.html content="Find a place to discuss provability v evidence? The author does touch on it, but seems a bit contradictory." %}
 
 And from Appendix A:
 
@@ -44,17 +50,74 @@ Use of term Darwinism (with Neo-Darwinism)
 
 - In reality, Adaptive Variation + Natural Selection + Time = Evolution 2.0
 
-## Evolution is not Random
+## Mechanisms of Evolution
 
-I feel the strongest argument the author makes in this book is for the reality of evolution based on several hundred years of scientific investigation, but coupled with a bizarre fixation on randomness as the key component driving evolution, when in fact we see that
+The author spends a good deal of the book describing the known mechanisms of evolution. The strongest argument the author makes is for the reality of evolution based on several hundred years of scientific investigation. "If we rank these \[mechanisms\] from most gradual to most sudden, the list looks like this" {% cite marshallEvolutionBreakingDeadlock2015 -l 144 %}:
+
+*Transposition* -  cells rearranging their own DNA
+
+*Epigenetics* - organisms passing acquired traits to offspring through cells switching DNA sequences on and off
+
+*Horizontal Transfer* - cells exchanging DNA
+
+*Genome Duplication* - two species merging to form a third
+
+{% include note.html content="??? Genome Dupl v Gene Dupl v Whole Genome Dupl v Hybridization" %}
+
+*Symbiogenesis* - organisms merging together to form a brand new organism
+
+some randomness is involved, but it is not the driving force.
+ but coupled with a fixation on randomness as the key component driving evolution, due to a desire to show the lack of supernatural involvement. But we see that it isn't random at all, rather it is goal driven and designed.
 
 For me, the most eye-opening revelation in this book is the extent to which
 
-Though obsesively focused on
+Though obsesively focused on refuting "Darwinism". Neo-Darwinism, etc.
 
 ## Evolution is driven by Design
 
+### Other Supernatural references
+
+As this book is intended to be a science book, about what we can discover in our natural world, it does not cover the supernatural in any great extent. But it is important to note that the author does retain his religious belief and gives a node to the supernatural.
+
+> Spirituality is the thing that distinguishes us from animals. It doesn't come from our bodies, it comes from our spirits. {% cite marshallEvolutionBreakingDeadlock2015 -l 19 %}
+>
+> Man is a spiritual being, the first creature made in God's image. Unlike the animals, man is both body and spirit. This is why the origin of man's body plan, which is adapted from lower animals, doesn't alter his spirit identity as a child of God. {% cite marshallEvolutionBreakingDeadlock2015 -l 315 %}
+
+{% include note.html content="Quote 'proof of supernaturl' here" %}
+
+## The Commercial Angle
+
+Contradiction between religous and commercial interests. The author posits that we don't know of any naturally occurring codes.  This points to there being a designer of the code, which supports his religious belief. But then he says that such a naturally occurring code would be a commercial bonanza (eg, for engineering and artificial intelligence) so he is willing to back any such a discovery with his own money.
+
+Commercial website
+
+What are his motivations?
+
+- gather further business?
+- actually discover naturally occurring codes?
+- demonstrate that it's not possible because no one is following the money?
+
+## On Proof and Evidence
+
+> In order to become an atheist, what would have to be true?
+>
+> - I would need proof that random mutations (...) filtered by natural selection really could generate all manner of elaborate structures like eye and ears. ...
+> - I would need to discover a principle--a  law in math, science, or engineering--that said, "X percent of the time, random mutations are neutral. Y percent of the time, they're harmful. Z percent of the time, they do turn out to be helpful." This would have to have been rigorously tested.
+> - I would need proof, with bona fide laboratory experiments, that all things really needed to evolve was time and chance.
+>
+> And one last thing:
+>
+> - Someone would have to show that the first cells and life itself could emerge from the early ocean without any kind of action by an intelligent agent.
+>
+> {% cite marshallEvolutionBreakingDeadlock2015 -l 8 %}
+
+Why do the first three require proof while the fourth only need to show possibility?
+
+Isn't proof a much higher burden than he applies to his own faith?
+
 ## Conclusions
+
+{% include note.html content="Do I want a Conclusions section, or just include them throughout the post?" %}
 
 The author has a strong bias towards justifying his theism
 
@@ -63,6 +126,9 @@ Many atheists (and educators?) have a strong bias towards justifying their belie
 ## Further Study
 
 ### Presentation of Evolutionary Theory
+
+Does the author get ratio correct: goal driven (code) v random
+Learn more about Adaptive Variation
 
 ### Information Theory and Evolution
 
