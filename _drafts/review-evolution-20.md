@@ -26,33 +26,33 @@ From the Introduction:
 
 > In this book, I offer a 2.0 version of evolution, a brand new paradigm for biology. I will show you that scientists create new species in the lab every day, and I'll show you how they do it. I'll also demonstrate that to the extent science can prove anything, science proves design in DNA. In other words, I'll prove that both sides, the Creationists and the Darwinists, are right. {% cite marshallEvolutionBreakingDeadlock2015 -l xxvi %}
 
-is "prove" a little strong?
-
-{% include note.html content="Find a place to discuss provability v evidence? The author does touch on it, but seems a bit contradictory." %}
+{% include note.html content="prove? Find a place to discuss provability v evidence; The author does touch on it, but seems a bit contradictory." %}
 
 And from Appendix A:
 
 > Half the thesis of this book is that randomness does not create codes; and that once they exist, randomness can only destroy them. The other half of this thesis is that the origin of life required the creation of codes, and that nonrandom, linguistic adaptations of DNA continue to create codes and thus drive biological evolution. {% cite marshallEvolutionBreakingDeadlock2015 -l 282 %}
 
-- Evolution is a documented, scientifically based reality
+My bullet point summary is:
 
-- Theists and scientists should both be interested in science based exploration of the natural world
+- Evolution by natural selection is a documented, evidence based reality
 
-- Proponents of Creationism/Intelligent Design are wrong to deny evolution
+- DNA is code (meets the requirements of code, encoder, and decoder), which is the main driver of evolution, and must have been designed
 
-- Proponents of Random Mutation (Neo-Darwinists) are wrong to deny designed, goal-driven evolution
+- Proponents of Creationism/Intelligent Design are wrong to deny evolution, while proponents of Random Mutation are wrong to deny designed, goal-driven evolution
 
-- DNA is code (meets the requirements of code, encoder, and decoder)
-
-- Neo-Darwinism is Random Mutation + Natural Selection + Time = Evolution
-
-Use of term Darwinism (with Neo-Darwinism)
+- Neo-Darwinism[^darwinism] is Random Mutation + Natural Selection + Time = Evolution
 
 - In reality, Adaptive Variation + Natural Selection + Time = Evolution 2.0
 
 ## Mechanisms of Evolution
 
-The author spends a good deal of the book describing the known mechanisms of evolution. The strongest argument the author makes is for the reality of evolution based on several hundred years of scientific investigation. "If we rank these \[mechanisms\] from most gradual to most sudden, the list looks like this" {% cite marshallEvolutionBreakingDeadlock2015 -l 144 %}:
+The author spends a good deal of the book describing the known mechanisms of evolution. The strongest argument he makes is for the reality of evolution based on several hundred years of scientific investigation. The supporting evidence comes from the fossil record, the form and function of living things today, and on the ever increasing amount of DNA evidence.
+
+In his book, On the Origin of Species, Charles Darwin "[...] introduced the scientific theory that populations evolve over the course of generations through a process of natural selection. The book presented a body of evidence that the diversity of life arose by common descent through a branching pattern of evolution. Darwin included evidence that he had collected on the Beagle expedition in the 1830s and his subsequent findings from research, correspondence, and experimentation" [(Wikipedia)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species).
+
+However, lacking an understanding of DNA and genetics he was unable to theorize on the actual mechanisms of speciation, how one species changed into another.
+
+"If we rank these \[mechanisms\] from most gradual to most sudden, the list looks like this" {% cite marshallEvolutionBreakingDeadlock2015 -l 144 %}:
 
 *Transposition* -  cells rearranging their own DNA
 
@@ -143,6 +143,11 @@ author fails here by a "God of the Gaps"
 {% bibliography --cited_in_order %}
 
 ## Footnotes
+
+[^darwinism]:
+
+    The author acknowledges that Darwinism, Neo-Darwinism, and "Random Mutationist" aren't exactly the same thing, but then tends to use them interchangeably.  In addition, it seems that many people have different ideas about what is [Neo-Darwinism](https://en.wikipedia.org/wiki/Neo-Darwinism). The key point, however is that random ...
+    {%include note.html content="finish this thought; does randomness discussion go here?" %}
 
 [^decision]:
 
