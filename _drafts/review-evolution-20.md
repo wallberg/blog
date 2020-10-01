@@ -4,21 +4,7 @@ title: "Book Review: Evolution 2.0"
 tags: review evolution darwinism intelligent-design
 ---
 
-In this post I review Evolution 2.0: Breaking the Deadlock Between Darwin and Design {% cite marshallEvolutionBreakingDeadlock2015 %} The author, Perry Marshall, presents a view of evolution as a middle ground between the dogmatic views of many advocates of two sides. Advocates for Intelligent Design need to accept that evolution is real, advocates for Neo-Darwinism need to accept that evolution is not random or designless. My intent here is not to present a comprehensive treatment of the book but rather a summary of the major takeaways for me personally.
-
-## About the Author
-
-Crisis of Faith, Scientific Search, Electrical Engineer as Outsider
-
-> So I made a daring, perilous, frightening decision.
->
-> *I was going to let science and engineering answer this question for me*.
->
-> I promised that if science really told me that not God, no plan, no intentionality was needed for me to have a wonderfully engineered hand at the end of my arm, then I would make a massive, wholesale change in my belief system. {% cite marshallEvolutionBreakingDeadlock2015 -l 7 %}
-
-Challenge of looking closely [^decision].
-
-The author argues he is an outsider, able to see new insights in genetics, communication theory, and bioinformatics.
+In this post I present a summary of my understanding and takeaways from the book Evolution 2.0: Breaking the Deadlock Between Darwin and Design {% cite marshallEvolutionBreakingDeadlock2015 %} The author, Perry Marshall, presents a view of evolution as a middle ground between the dogmatic views of  advocates on two sides. Advocates for Intelligent Design (ID) need to accept that evolution is real, advocates for Neo-Darwinism need to accept that evolution is not random, but goal-driven and designed.
 
 ## Summary
 
@@ -34,27 +20,64 @@ And from Appendix A:
 
 My bullet point summary is:
 
-- Evolution by natural selection is a documented, evidence based reality
+- Evolution by natural selection is a documented and evidence based reality
 
-- DNA is code (meets the requirements of code, encoder, and decoder), which is the main driver of evolution, and must have been designed
+- DNA is code; it meets all the requirements for being code, it is the main driver of evolution, and it must have been designed
 
-- Proponents of Creationism/Intelligent Design are wrong to deny evolution, while proponents of Random Mutation are wrong to deny designed, goal-driven evolution
+- Dogmatic adherence to ideology impacts both sides of the debate
+  - Proponents of Creationism/ID are right to believe that life is designed by a designer outside of this natural world, but wrong to deny evolution as a threat to their beliefs
+  - Proponents of Random Mutation (Atheism?) are right to believe in evolution, but wrong to deny designed, goal-driven evolution as a threat to their beliefs
 
-- Neo-Darwinism[^darwinism] is Random Mutation + Natural Selection + Time = Evolution
+- Evolution:
+  - according to Darwin: Gradual Variation + Natural Selection + Time
+  - according to Neo-Darwinism: Random Mutation + Natural Selection + Time
+  - according to current science (Evolution 2.0): Adaptive Variation + Natural Selection + Time
 
-- In reality, Adaptive Variation + Natural Selection + Time = Evolution 2.0
+{% include note.html content="(Theism v Atheism) v {Random v Adaptive Evolution" %}
+
+## Background
+
+Crisis of Faith, Scientific Search, Electrical Engineer as Outsider
+
+> So I made a daring, perilous, frightening decision.
+>
+> *I was going to let science and engineering answer this question for me*.
+>
+> I promised that if science really told me that not God, no plan, no intentionality was needed for me to have a wonderfully engineered hand at the end of my arm, then I would make a massive, wholesale change in my belief system. {% cite marshallEvolutionBreakingDeadlock2015 -l 7 %}
+
+Challenge of looking closely [^decision].
+
+The author argues he is an outsider, able to see new insights in genetics, communication theory, and bioinformatics.
 
 ## Mechanisms of Evolution
 
 The author spends a good deal of the book describing the known mechanisms of evolution. The strongest argument he makes is for the reality of evolution based on several hundred years of scientific investigation. The supporting evidence comes from the fossil record, the form and function of living things today, and on the ever increasing amount of DNA evidence.
 
-In his book, On the Origin of Species, Charles Darwin "[...] introduced the scientific theory that populations evolve over the course of generations through a process of natural selection. The book presented a body of evidence that the diversity of life arose by common descent through a branching pattern of evolution. Darwin included evidence that he had collected on the Beagle expedition in the 1830s and his subsequent findings from research, correspondence, and experimentation" [(Wikipedia)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species).
+### Darwinism
 
-However, lacking an understanding of DNA and genetics he was unable to theorize on the actual mechanisms of speciation, how one species changed into another.
+> The term *Darwinism* formally refers to the theory of evolution as Charles Darwin expressed it in *On the Origin of Species* in 1859. He postulated that small variations in organisms over vast periods of time, filtered by natural selection, were responsible for the development of new species. Darwin's original theory might be summarized like this:
+>
+> Gradual Variation + Natural Selection + Time = Evolution {% cite marshallEvolutionBreakingDeadlock2015 -l 37 %}
 
-"If we rank these \[mechanisms\] from most gradual to most sudden, the list looks like this" {% cite marshallEvolutionBreakingDeadlock2015 -l 144 %}:
+The author presented several examples of descent with modification, or common ancenstry, which started his exploration into evolution:
 
-*Transposition* -  cells rearranging their own DNA
+- [Whales in the past had feet](https://en.wikipedia.org/wiki/Archaeoceti); modern whales are descendents of those ancestors and [some retain vestiges of legs and feet](https://en.wikipedia.org/wiki/Whale#Locomotion), "disconnected from the rest of its skeleton and suspended in the flesh".
+
+- [Blind mole rats](https://en.wikipedia.org/wiki/Spalax)] have fully formed eyes which are completely covered by skin, an adaptation for their life underground. They have eyes because they descended from animals which used those eyes.
+
+- Humans are primates because they contain common [pseudogenes](https://en.wikipedia.org/wiki/Pseudogene)] (nonfunctional segments of DNA) found nowhere else in the animal kingdom. Why would someone independently designing these species introduce the same nonfunctioning DNA code into both of them and nowhere else? Not proof of common ancestry, but strong evidence.
+
+> As I continued to research this, it became clear to me that evolution most definitely appeared to have happened. *But How?* I started hunting through a pile of research from the 1950s to today. I resolved to find some kind of mechanism that would explain it all. {% cite marshallEvolutionBreakingDeadlock2015 -l 20 %}
+
+### Randomness
+
+> Darwin himself didn't strongly evangelize his belief that the variations, or the mutations, were random. Randomness didn't become dogma until the 20th century. Darwin didn't know where the variations came from. He didn't know about genetics and he didn't know anything about cells or DNA. \[...] For simplicity, in this book I will normally refer to Neo-Darwinism and the Modern Synthesis as Darwinism. Here, the use of Darwinism emphasizes assumptions of randomness. {% cite marshallEvolutionBreakingDeadlock2015 -l 37 %}.
+
+### Adaptive Variation
+
+"If we rank these \[mechanisms] from most gradual to most sudden, the list looks like this" {% cite marshallEvolutionBreakingDeadlock2015 -l 144 %}:
+
+*Transposition* - cells rearranging their own DNA
 
 *Epigenetics* - organisms passing acquired traits to offspring through cells switching DNA sequences on and off
 
@@ -66,14 +89,9 @@ However, lacking an understanding of DNA and genetics he was unable to theorize 
 
 *Symbiogenesis* - organisms merging together to form a brand new organism
 
-some randomness is involved, but it is not the driving force.
- but coupled with a fixation on randomness as the key component driving evolution, due to a desire to show the lack of supernatural involvement. But we see that it isn't random at all, rather it is goal driven and designed.
+### Information Theory
 
-For me, the most eye-opening revelation in this book is the extent to which
-
-Though obsesively focused on refuting "Darwinism". Neo-Darwinism, etc.
-
-## Evolution is driven by Design
+### Design
 
 ### Other Supernatural references
 
@@ -115,6 +133,12 @@ Why do the first three require proof while the fourth only need to show possibil
 
 Isn't proof a much higher burden than he applies to his own faith?
 
+## Weaknesses
+
+On debate: Being dogmatic or argumentative are traits that people have, regardless of their ideology.  If you go to online forums, you are going to get dogma and arguments.
+
+spectrum of proof and evidence
+
 ## Conclusions
 
 {% include note.html content="Do I want a Conclusions section, or just include them throughout the post?" %}
@@ -130,6 +154,12 @@ Many atheists (and educators?) have a strong bias towards justifying their belie
 Does the author get ratio correct: goal driven (code) v random
 Learn more about Adaptive Variation
 
+Is "Neo-Darwinism the prevailing paradigm in science today"?
+
+Is Evolution 2.0 a "brand new paradigm for biology" ?
+
+Does "science prove design in DNA"?
+
 ### Information Theory and Evolution
 
 ### Origins of life
@@ -144,16 +174,11 @@ author fails here by a "God of the Gaps"
 
 ## Footnotes
 
-[^darwinism]:
-
-    The author acknowledges that Darwinism, Neo-Darwinism, and "Random Mutationist" aren't exactly the same thing, but then tends to use them interchangeably.  In addition, it seems that many people have different ideas about what is [Neo-Darwinism](https://en.wikipedia.org/wiki/Neo-Darwinism). The key point, however is that random ...
-    {%include note.html content="finish this thought; does randomness discussion go here?" %}
-
 [^decision]:
 
     Continuing, the author says:
 
-    > I promised that if science really told me that no God, no plan, no intentionality was needed for me to have a wonderfully engineered hand at the end of my arm, then I would a massive, wholesale change in my belief system.
+    > I promised that if science really told me that no God, no plan, no intentionality was needed for me to have a wonderfully engineered hand at the end of my arm, then I would make a massive, wholesale change in my belief system.
     >
     > I thought about how my family life could change.
     >
