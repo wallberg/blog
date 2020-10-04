@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Evolution 2.0"
-tags: review evolution darwinism intelligent-design
+tags: review evolution darwinism intelligent-design information-theory
 ---
 
 In this post I present a summary of my understanding and takeaways from the book Evolution 2.0: Breaking the Deadlock Between Darwin and Design {% cite marshallEvolutionBreakingDeadlock2015 %} The author, Perry Marshall, presents a view of evolution as a middle ground between the dogmatic views of  advocates on two sides. Advocates for Intelligent Design (ID) need to accept that evolution is real, advocates for Neo-Darwinism need to accept that evolution is not random, but goal-driven and designed.
@@ -24,9 +24,7 @@ My bullet point summary is:
 
 - DNA is code; it meets all the requirements for being code, it is the main driver of evolution, and it must have been designed
 
-- Dogmatic adherence to ideology impacts both sides of the debate
-  - Proponents of Creationism/ID are right to believe that life is designed by a designer outside of this natural world, but wrong to deny evolution as a threat to their beliefs
-  - Proponents of Random Mutation (Atheism?) are right to believe in evolution, but wrong to deny designed, goal-driven evolution as a threat to their beliefs
+- Dogmatic adherence to ideology impacts both sides of the debate. Proponents of Creationism/ID are right to believe that life is designed by a designer outside of this natural world, but wrong to deny evolution as a threat to their beliefs. Proponents of Random Mutation (Atheism?) are right to believe in evolution, but wrong to deny designed, goal-driven evolution as a threat to their beliefs
 
 - Evolution:
   - according to Darwin: Gradual Variation + Natural Selection + Time
@@ -34,6 +32,12 @@ My bullet point summary is:
   - according to current science (Evolution 2.0): Adaptive Variation + Natural Selection + Time
 
 {% include note.html content="(Theism v Atheism) v {Random v Adaptive Evolution" %}
+
+There are two classes of arguments that author makes which I tend to omit here:
+
+- Arguments targeted at theists to convince them that evolution is real
+
+- Ad hominem arguments based on what some particular athiest, theist, or scientist believes or how kind of arguments they make in debates
 
 ## Background
 
@@ -63,15 +67,38 @@ The author presented several examples of descent with modification, or common an
 
 - [Whales in the past had feet](https://en.wikipedia.org/wiki/Archaeoceti); modern whales are descendents of those ancestors and [some retain vestiges of legs and feet](https://en.wikipedia.org/wiki/Whale#Locomotion), "disconnected from the rest of its skeleton and suspended in the flesh".
 
-- [Blind mole rats](https://en.wikipedia.org/wiki/Spalax)] have fully formed eyes which are completely covered by skin, an adaptation for their life underground. They have eyes because they descended from animals which used those eyes.
+- [Blind mole rats](https://en.wikipedia.org/wiki/Spalax) have fully formed eyes which are completely covered by skin, an adaptation for their life underground. They have eyes because they descended from animals which used those eyes.
 
-- Humans are primates because they contain common [pseudogenes](https://en.wikipedia.org/wiki/Pseudogene)] (nonfunctional segments of DNA) found nowhere else in the animal kingdom. Why would someone independently designing these species introduce the same nonfunctioning DNA code into both of them and nowhere else? Not proof of common ancestry, but strong evidence.
+- Humans are primates because they contain common [pseudogenes](https://en.wikipedia.org/wiki/Pseudogene) (nonfunctional segments of DNA) found nowhere else in the animal kingdom. Why would someone independently designing these species introduce the same nonfunctioning DNA code into both of them and nowhere else? Not proof of common ancestry, but strong evidence.
 
 > As I continued to research this, it became clear to me that evolution most definitely appeared to have happened. *But How?* I started hunting through a pile of research from the 1950s to today. I resolved to find some kind of mechanism that would explain it all. {% cite marshallEvolutionBreakingDeadlock2015 -l 20 %}
 
+### Information Theory
+
+The author argues that DNA is a code, just as in traditional information theory as layed out by Claude Shannon, [involving transmission, processing, extraction, and utilization of information](https://en.wikipedia.org/wiki/Information_theory):
+
+- The code is written in the alphabet of DNA nucleotides (A, C, G, or T)
+
+- The alphabet is used to create words composed of three nucleotides, called codons
+
+- Each codon is an instruction to build one amino acid from specific elements
+
+- Genes are sequences of codons which specify assemblies of proteins
+
+- "Combinations of genes form an interdependent complex of instructions and a matrix of code elements, packed into chromosomes {% cite marshallEvolutionBreakingDeadlock2015 -l 45 %}
+
+> DNA, like many human-made codes, also has reduncancy, error correction, checksums, linguistic structure, and codes layered inside of codes {% cite marshallEvolutionBreakingDeadlock2015 -l 39 %}.
+
 ### Randomness
 
+Nevertheless the author makes a good case that random mutation is neither the only nor even the primary mechanism of evolutionary change. Mutations do occur, but most random mutations would only 
+
 > Darwin himself didn't strongly evangelize his belief that the variations, or the mutations, were random. Randomness didn't become dogma until the 20th century. Darwin didn't know where the variations came from. He didn't know about genetics and he didn't know anything about cells or DNA. \[...] For simplicity, in this book I will normally refer to Neo-Darwinism and the Modern Synthesis as Darwinism. Here, the use of Darwinism emphasizes assumptions of randomness. {% cite marshallEvolutionBreakingDeadlock2015 -l 37 %}.
+
+I found the author's practice of "normally", but not always, referring to *Neo-Darwinism* as *Darwinism* to be confusing, because it became difficult to distinguish when he is referring to *random mutation* versus *natural selection*. In addition, the term *Neo-Darwinism* itself may not be as strongly tied to randomness as the author suggests [^neodarwinism].
+
+
+
 
 ### Adaptive Variation
 
@@ -89,7 +116,6 @@ The author presented several examples of descent with modification, or common an
 
 *Symbiogenesis* - organisms merging together to form a brand new organism
 
-### Information Theory
 
 ### Design
 
@@ -173,6 +199,10 @@ author fails here by a "God of the Gaps"
 {% bibliography --cited_in_order %}
 
 ## Footnotes
+
+[^neodarwinism]:
+
+    > Neo-Darwinism is generally used to describe any integration of Charles Darwin's theory of evolution by natural selection with Gregor Mendel's theory of genetics. It mostly refers to evolutionary theory from either 1895 (for the combinations of Darwin's and August Weismann's theories of evolution) or 1942 ("modern synthesis"), but it can mean any new Darwinian- and Mendelian-based theory, such as the current evolutionary theory. The term "Neo-Darwinism" marks the combination of natural selection and genetics, as has been variously modified since it was first proposed. [(Neo-Darwinism)](https://en.wikipedia.org/wiki/Neo-Darwinism)
 
 [^decision]:
 
