@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Evolution 2.0"
-tags: review evolution darwinism intelligent-design information-theory
+tags: review evolution intelligent-design information-theory
 ---
 
 In this post I present a summary of my understanding and takeaways from the book Evolution 2.0: Breaking the Deadlock Between Darwin and Design {% cite marshallEvolutionBreakingDeadlock2015 %} The author, Perry Marshall, presents a view of evolution as a middle ground between the dogmatic views of  advocates on two sides. Advocates for Intelligent Design (ID) need to accept that evolution is real, advocates for Neo-Darwinism need to accept that evolution is not random, but goal-driven and designed.
@@ -93,12 +93,7 @@ The author argues that DNA is a code, just as in traditional information theory 
 
 Nevertheless the author makes a good case that random mutation is neither the only nor even the primary mechanism of evolutionary change. Mutations do occur, but most random mutations would only 
 
-> Darwin himself didn't strongly evangelize his belief that the variations, or the mutations, were random. Randomness didn't become dogma until the 20th century. Darwin didn't know where the variations came from. He didn't know about genetics and he didn't know anything about cells or DNA. \[...] For simplicity, in this book I will normally refer to Neo-Darwinism and the Modern Synthesis as Darwinism. Here, the use of Darwinism emphasizes assumptions of randomness. {% cite marshallEvolutionBreakingDeadlock2015 -l 37 %}.
-
-I found the author's practice of "normally", but not always, referring to *Neo-Darwinism* as *Darwinism* to be confusing, because it became difficult to distinguish when he is referring to *random mutation* versus *natural selection*. In addition, the term *Neo-Darwinism* itself may not be as strongly tied to randomness as the author suggests [^neodarwinism].
-
-
-
+> Darwin himself didn't strongly evangelize his belief that the variations, or the mutations, were random. Randomness didn't become dogma until the 20th century. Darwin didn't know where the variations came from. He didn't know about genetics and he didn't know anything about cells or DNA [^neodarwinism].
 
 ### Adaptive Variation
 
@@ -200,13 +195,9 @@ author fails here by a "God of the Gaps"
 
 ## Footnotes
 
-[^neodarwinism]:
-
-    > Neo-Darwinism is generally used to describe any integration of Charles Darwin's theory of evolution by natural selection with Gregor Mendel's theory of genetics. It mostly refers to evolutionary theory from either 1895 (for the combinations of Darwin's and August Weismann's theories of evolution) or 1942 ("modern synthesis"), but it can mean any new Darwinian- and Mendelian-based theory, such as the current evolutionary theory. The term "Neo-Darwinism" marks the combination of natural selection and genetics, as has been variously modified since it was first proposed. [(Neo-Darwinism)](https://en.wikipedia.org/wiki/Neo-Darwinism)
-
 [^decision]:
 
-    Continuing, the author says:
+    Continuing,
 
     > I promised that if science really told me that no God, no plan, no intentionality was needed for me to have a wonderfully engineered hand at the end of my arm, then I would make a massive, wholesale change in my belief system.
     >
@@ -215,3 +206,14 @@ author fails here by a "God of the Gaps"
     > My wife might wake up one day to find an atheist sleeping in her bed. I could end up staying home while she took my kids to church. Would I have to bite my lip, or would I try to enlighten all my friends and family that their beliefs are based on fantasy? Would Thanksgiving dinner turn into a brawl over science and religion with my devoutly faithful relatives? I might lose lifelong friends over this.
 
     I can certainly relate to this dilemma.
+
+[^neodarwinism]:
+
+    Continuing,
+
+    > For simplicity, in this book I will normally refer to Neo-Darwinism and the Modern Synthesis as Darwinism. Here, the use of Darwinism emphasizes assumptions of randomness.
+
+    I found the author's practice of "normally", but not always, referring to *Neo-Darwinism* as *Darwinism* to be confusing, because it became difficult to distinguish when he is referring to *random mutation* versus *natural selection*. In addition, the term *Neo-Darwinism* itself may not be as strongly tied to randomness as the author suggests.
+
+    > Neo-Darwinism is generally used to describe any integration of Charles Darwin's theory of evolution by natural selection with Gregor Mendel's theory of genetics. It mostly refers to evolutionary theory from either 1895 (for the combinations of Darwin's and August Weismann's theories of evolution) or 1942 ("modern synthesis"), but it can mean any new Darwinian- and Mendelian-based theory, such as the current evolutionary theory. The term "Neo-Darwinism" marks the combination of natural selection and genetics, as has been variously modified since it was first proposed. [(Neo-Darwinism)](https://en.wikipedia.org/wiki/Neo-Darwinism)
+
