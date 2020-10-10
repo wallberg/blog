@@ -85,17 +85,21 @@ The author argues that DNA is a code, just as in traditional information theory 
 
 - Genes are sequences of codons which specify assemblies of proteins
 
-- "Combinations of genes form an interdependent complex of instructions and a matrix of code elements, packed into chromosomes {% cite marshallEvolutionBreakingDeadlock2015 -l 45 %}
-
+> Information organization in DNA is the same as digital data. \[...] Combinations of genes form an interdependent complex of instructions and a matrix of code elements, packed into chromosomes. \[...] and just like digital data, the information in DNA is fragile. {% cite marshallEvolutionBreakingDeadlock2015 -l 45 %}
+>
 > DNA, like many human-made codes, also has reduncancy, error correction, checksums, linguistic structure, and codes layered inside of codes {% cite marshallEvolutionBreakingDeadlock2015 -l 39 %}.
+
+But are they the same? Digital layers are intentionally isolated from each other.  DNA and higher biological systems have messy interdependences and feedback loops. Everything is tangled. People design digital systems to reduce complexity so that we can understand them.
 
 ### Randomness
 
-Nevertheless the author makes a good case that random mutation is neither the only nor even the primary mechanism of evolutionary change. Mutations do occur, but most random mutations would only 
+> Darwin himself didn't strongly evangelize his belief that the variations, or the mutations, were random. Randomness didn't become dogma until the 20th century. Darwin didn't know where the variations came from. He didn't know about genetics and he didn't know anything about cells or DNA. {% cite marshallEvolutionBreakingDeadlock2015 -l 36 %} [^neodarwinism].
 
-> Darwin himself didn't strongly evangelize his belief that the variations, or the mutations, were random. Randomness didn't become dogma until the 20th century. Darwin didn't know where the variations came from. He didn't know about genetics and he didn't know anything about cells or DNA [^neodarwinism].
+The author makes a good case that random mutation is neither the only nor even the primary mechanism of evolutionary change. Mutations do occasionally occur which would be beneficial, but most random mutations only cause failures in the biological systems, ie create "noise" in the "information channel" which would render the message unusable.
 
 ### Adaptive Variation
+
+The author presents a wide range of scientific findings about how DNA, and the cells that host and maintain that DNA, have a goal-oriented design: they work to keep themselves alive and to reproduce.
 
 "If we rank these \[mechanisms] from most gradual to most sudden, the list looks like this" {% cite marshallEvolutionBreakingDeadlock2015 -l 144 %}:
 
@@ -111,18 +115,23 @@ Nevertheless the author makes a good case that random mutation is neither the on
 
 *Symbiogenesis* - organisms merging together to form a brand new organism
 
+### Design and the Supernatural
 
-### Design
+> Before life can reproduce and before evolution has any chance of occurring, there must first be a code. Currently we have no evidence to suggest that the genetic code, or any code, can come into existence without intelligence. {% cite marshallEvolutionBreakingDeadlock2015 -l xxvi %}
 
-### Other Supernatural references
-
-As this book is intended to be a science book, about what we can discover in our natural world, it does not cover the supernatural in any great extent. But it is important to note that the author does retain his religious belief and gives a node to the supernatural.
+author fails here by a "God of the Gaps"
 
 > Spirituality is the thing that distinguishes us from animals. It doesn't come from our bodies, it comes from our spirits. {% cite marshallEvolutionBreakingDeadlock2015 -l 19 %}
 >
 > Man is a spiritual being, the first creature made in God's image. Unlike the animals, man is both body and spirit. This is why the origin of man's body plan, which is adapted from lower animals, doesn't alter his spirit identity as a child of God. {% cite marshallEvolutionBreakingDeadlock2015 -l 315 %}
 
-{% include note.html content="Quote 'proof of supernaturl' here" %}
+So according to the author, during the early earth a designer created the first cell with DNA code then set it loose to evolve via natural processes, driven by its goal-seeking design, over the course of 3.6 billion years or so.  Bacteria reigned alone for half of this time, then came came life with more complex, nucleated cells, then during the final fifteen percent arrived animals, fungi, and plants. At some point in the last 200,000 years or so the designer returned and attached a spirit to homo sapiens and we became both body and spirit.
+
+It's not clear to me why a omnipotent and omniscient designer would follow this particular route.
+
+> In my personal experience, religious faith is a based on evidence, past experience, history, and reason. \[...] *experience* includes things like documented healings, answered prayers, and extraordinary sequences of events far too remarkable to ascribe to chance [^faith]. {%cite marshallEvolutionBreakingDeadlock2015 -l 218 %}
+
+I'm not aware of any this evidence, documented scientifically or in *my* personal experience. I think the author is simply motivated to justify his faith and forgets his basic statistics.
 
 ## The Commercial Angle
 
@@ -154,12 +163,6 @@ Why do the first three require proof while the fourth only need to show possibil
 
 Isn't proof a much higher burden than he applies to his own faith?
 
-## Weaknesses
-
-On debate: Being dogmatic or argumentative are traits that people have, regardless of their ideology.  If you go to online forums, you are going to get dogma and arguments.
-
-spectrum of proof and evidence
-
 ## Conclusions
 
 {% include note.html content="Do I want a Conclusions section, or just include them throughout the post?" %}
@@ -168,26 +171,24 @@ The author has a strong bias towards justifying his theism
 
 Many atheists (and educators?) have a strong bias towards justifying their beliefs and therefore firmly hold to the obsolete theory of evolution which hold that all change occurs by undirected "random" changes in the genetic code.
 
-## Further Study
+### Further Study
 
-### Presentation of Evolutionary Theory
+How well does information theory, a formal system, really model the messy world of organic life?
+
+To what extent is randomness still dogma in science and education?
+
+DNA = Information Theory = Designer required
+
+Is Evolution 2.0 a "brand new paradigm for biology" ?
 
 Does the author get ratio correct: goal driven (code) v random
 Learn more about Adaptive Variation
 
 Is "Neo-Darwinism the prevailing paradigm in science today"?
 
-Is Evolution 2.0 a "brand new paradigm for biology" ?
-
 Does "science prove design in DNA"?
 
-### Information Theory and Evolution
-
-### Origins of life
-
-> Before life can reproduce and before evolution has any chance of occurring, there must first be a code. Currently we have no evidence to suggest that the genetic code, or any code, can come into existence without intelligence. {% cite marshallEvolutionBreakingDeadlock2015 -l xxvi %}
-
-author fails here by a "God of the Gaps"
+What is the latest scientific research available on the origins of life?
 
 ## References
 
@@ -217,3 +218,8 @@ author fails here by a "God of the Gaps"
 
     > Neo-Darwinism is generally used to describe any integration of Charles Darwin's theory of evolution by natural selection with Gregor Mendel's theory of genetics. It mostly refers to evolutionary theory from either 1895 (for the combinations of Darwin's and August Weismann's theories of evolution) or 1942 ("modern synthesis"), but it can mean any new Darwinian- and Mendelian-based theory, such as the current evolutionary theory. The term "Neo-Darwinism" marks the combination of natural selection and genetics, as has been variously modified since it was first proposed. [(Neo-Darwinism)](https://en.wikipedia.org/wiki/Neo-Darwinism)
 
+[^faith]:
+
+    The fuller passage:
+
+    > In my personal experience, religious faith is a based on evidence, past experience, history, and reason. *Evidence includes things like the obeservations in this book, the beauty of nature, the fine-tuning of the universe, archaelogy, and history; *experience* includes things like documented healings, answered prayers, and extraordinary sequences of events far too remarkable to ascribe to chance; and *reason* includes things like moreal philosophical arguments. {%cite marshallEvolutionBreakingDeadlock2015 -l 218 %}
