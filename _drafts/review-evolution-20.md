@@ -12,8 +12,6 @@ From the Introduction:
 
 > In this book, I offer a 2.0 version of evolution, a brand new paradigm for biology. I will show you that scientists create new species in the lab every day, and I'll show you how they do it. I'll also demonstrate that to the extent science can prove anything, science proves design in DNA. In other words, I'll prove that both sides, the Creationists and the Darwinists, are right. {% cite marshallEvolutionBreakingDeadlock2015 -l xxvi %}
 
-{% include note.html content="prove? Find a place to discuss provability v evidence; The author does touch on it, but seems a bit contradictory." %}
-
 And from Appendix A:
 
 > Half the thesis of this book is that randomness does not create codes; and that once they exist, randomness can only destroy them. The other half of this thesis is that the origin of life required the creation of codes, and that nonrandom, linguistic adaptations of DNA continue to create codes and thus drive biological evolution. {% cite marshallEvolutionBreakingDeadlock2015 -l 282 %}
@@ -30,8 +28,6 @@ My bullet point summary is:
   - according to Darwin: Gradual Variation + Natural Selection + Time
   - according to Neo-Darwinism[^neodarwinism]: Random Mutation + Natural Selection + Time
   - according to current science (Evolution 2.0): Adaptive Variation + Natural Selection + Time
-
-{% include note.html content="(Theism v Atheism) v {Random v Adaptive Evolution" %}
 
 {% include note.html content="consider removing below" %}
 
@@ -137,6 +133,8 @@ I suppose it's possible, but it's not clear to me why an omnipotent and omniscie
 
 I'm not aware of any this evidence, documented scientifically or in *my* personal experience. I think the author is simply motivated to justify his faith and ignore his basic statistics.
 
+{% include note.html content="God of the Gaps" %}
+
 ## The Commercial Angle
 
 Contradiction between religous and commercial interests. The author posits that we don't know of any naturally occurring codes.  This points to there being a designer of the code, which supports his religious belief. But then he says that such a naturally occurring code would be a commercial bonanza (eg, for engineering and artificial intelligence) so he is willing to back any such a discovery with his own money.
@@ -149,35 +147,19 @@ What are his motivations?
 - actually discover naturally occurring codes?
 - demonstrate that it's not possible because no one is following the money?
 
-## On Proof and Evidence
-
-> In order to become an atheist, what would have to be true?
->
-> - I would need proof that random mutations (...) filtered by natural selection really could generate all manner of elaborate structures like eye and ears. ...
-> - I would need to discover a principle--a  law in math, science, or engineering--that said, "X percent of the time, random mutations are neutral. Y percent of the time, they're harmful. Z percent of the time, they do turn out to be helpful." This would have to have been rigorously tested.
-> - I would need proof, with bona fide laboratory experiments, that all things really needed to evolve was time and chance.
->
-> And one last thing:
->
-> - Someone would have to show that the first cells and life itself could emerge from the early ocean without any kind of action by an intelligent agent.
->
-> {% cite marshallEvolutionBreakingDeadlock2015 -l 8 %}
-
-Why do the first three require proof while the fourth only need to show possibility?
-
-Isn't proof a much higher burden than he applies to his own faith?
-
-### Further Study
+## Further Study
 
 Here are some topics I would like to explore further, based on reading this book:
 
 - How well does information theory, a formal system, really model the messy world of organic life? Does science prove design in DNA?
 
-- The mechanisms of evolution
+- The mechanisms of evolution.
 
 - What is the latest scientific research available on the origins of life?
 
 - To what extent is randomness still dogma in science and education?
+
+- The nature of evidence and provability in science and faith.
 
 And these are on my list of books to read:
 
