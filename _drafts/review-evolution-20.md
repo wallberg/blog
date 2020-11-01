@@ -4,7 +4,9 @@ title: "Book Review: Evolution 2.0"
 tags: review evolution intelligent-design information-theory
 ---
 
-In this post I present a summary of my understanding and takeaways from the book Evolution 2.0: Breaking the Deadlock Between Darwin and Design {% cite marshallEvolutionBreakingDeadlock2015 %} The author, Perry Marshall, presents a view of evolution as a middle ground between the dogmatic views of advocates on two sides. Advocates for Intelligent Design (ID) need to accept that evolution is real, advocates for Neo-Darwinism need to accept that evolution is not random, but goal-driven and designed.
+In this post I present a summary of my understanding and takeaways from the book Evolution 2.0: Breaking the Deadlock Between Darwin and Design {% cite marshallEvolutionBreakingDeadlock2015 %} The author, Perry Marshall, presents a view of evolution as a middle ground between the dogmatic views of advocates on two sides. Advocates for Intelligent Design (ID) need to accept that evolution is real and advocates for Neo-Darwinism need to accept that evolution is not random, but goal-driven and designed.
+
+In my opinion the author has presented solid evidence of the reality of evolution and that random mutation is not the primary driver of evolution. I found his arguments that DNA required a designer warrant further investigation, but not the "proof" the he claims.
 
 ## Summary
 
@@ -18,9 +20,9 @@ And from Appendix A:
 
 My bullet point summary of the book's major points:
 
-- Evolution by natural selection is a documented and evidence based reality
+- Evolution by natural selection is a documented and evidence based reality.
 
-- DNA is code; it meets all the requirements for being code, it is the main driver of evolution, it is goal-oriented and it must have been designed
+- DNA is code; it meets all the requirements for being code, it is the main driver of evolution, it is goal-oriented, and it must have been designed.
 
 - Dogmatic adherence to ideology impacts both sides of the debate. Proponents of Creationism/ID are right to believe that life is designed by a designer outside of this natural world, but wrong to deny evolution as a threat to their beliefs. Proponents of Random Mutation are right to believe in evolution, but wrong to deny designed, goal-driven evolution as a threat to their beliefs.
 
@@ -71,9 +73,7 @@ The author began by looking into random mutation of DNA as the mechanism for evo
 
 The author makes a good case that random mutation is neither the only nor even the primary mechanism of evolutionary change. Mutations do occasionally occur which would be beneficial, but most random mutations only cause failures in the biological systems, i.e. create "noise" in the "information channel" which would render the message unusable.
 
-> *Random* means when a system changes, it follows no particular pattern. *Deterministic* means that given two identical situations, the system will do the exact same thing each time because it's utterly predictable. But when cells change their DNA, their response is neither random nor deterministic. It's actually somewhere in between. {% cite marshallEvolutionBreakingDeadlock2015 -l 302 %}
-
-It's ergodic, which means that as DNA changes there is some randomness (ie, what is the resulting change in function or how well does the change aid in survival given the current environment), but the goal-seeking design of DNA means that there are also predictable patterns that emerge.
+For example, since the beginning of the twentieth century scientists have been experimenting with fruit flies (*Drosophilia melanogaster*) due to their quick reproduction cycle. Many of those experiments have involved exposing them to radiation to induce mutations and observe the effects. When mutations occurred they were generally deleterious, never producing new species, although occassionally producing increased radiation resistence. Experiements on other animals and plants have produced similar results.
 
 ### Adaptive Variation
 
@@ -87,9 +87,9 @@ The author presents a wide range of scientific findings about how DNA, and the c
 
 *Horizontal Transfer* - cells exchanging DNA
 
-*Genome Duplication / Hybridization* - two species merging to form a third
+*Hybridization* - two organisms (which normally don't breed) reproducing sexually to form offspring with significantly new features
 
-*Symbiogenesis* - organisms merging together to form a brand new organism
+*Symbiogenesis* - organisms physically merging together (not through sexual reproduction) to form a brand new organism
 
 With just a little cross referencing, I found these descriptions of adaptive variation to be scientifically credible.
 
@@ -113,7 +113,7 @@ But are they the same? Digital layers are intentionally isolated from each other
 
 ### Design and the Supernatural
 
-The author primarily covers natural processes and the science that uncovers them. He also adds some supernatural elements:
+The author primarily covers natural processes and the science that uncovers them, but also adds some supernatural elements:
 
 > Before life can reproduce and before evolution has any chance of occurring, there must first be a code. Currently we have no evidence to suggest that the genetic code, or any code, can come into existence without intelligence. {% cite marshallEvolutionBreakingDeadlock2015 -l xxvi %}
 >
@@ -135,7 +135,7 @@ The author includes in this book an announcement of a newly formed $10 million p
 
 > This book issues a challenge: "Show an example of a code that's not designed. All you need is one". To date no one has documented the emergence of a naturally occurring code. If such a process were found, it would be one of the most celebrated discoveries of the last 100 years. A group of private investors and I are offering a prize for this discovery, if the process that produces codes can be patented. {%cite marshallEvolutionBreakingDeadlock2015 -l 338 %}
 
-I find this to be a bit confusing and seemingly contradictory. The author posits that we don't know of any naturally occurring codes.  This points to there being a designer of the code, which supports his religious belief. But then he says that such a naturally occurring code would be a commercial bonanza (eg, for engineering and artificial intelligence) so he is willing to back such a discovery with his own money. It seems odd to be putting so much behind a discovery which might prompt him to "make a massive, wholesale change in my belief system".
+I find this to be a bit confusing and seemingly contradictory. The author posits that we don't know of any naturally occurring codes.  This points to there being a designer of the code, which supports his religious belief. But then he says that such a naturally occurring code would be a commercial bonanza (eg, for engineering and artificial intelligence) so he is willing to back such a discovery with his own money. It seems odd to be putting so much behind a discovery which might prompt him to "make a massive, wholesale change in \[his] belief system".
 
 What is his motivation? Here is one possibility: the author is hedging his bets. The prize itself attracts attention to his book and his evolution 2.0 theory. If no one wins the prize he can claim that as further proof that a designer was required. If the prize is claimed then he and his investors stand to make a good deal of money. In either case, perhaps his faith won't be shaken because his assertion that DNA is code which requires a designer isn't the reason he retained his faith in the first place. Or in other words his belief is based on principles other than those discoverable by science.
 
@@ -145,13 +145,11 @@ Here are some topics I would like to explore further, based on reading this book
 
 - How well does information theory, a formal system, really model the messy world of organic life? Does science prove design in DNA?
 
-- The mechanisms of evolution.
-
-- What is the latest scientific research available on the origins of life?
+- What is the latest scientific research on the mechanisms of evolution and on the origins of life?
 
 - To what extent is randomness still dogma in science and education?
 
-- The nature of evidence and provability in science and faith.
+- What is the nature of evidence and provability in science and faith?
 
 And these are on now on my list of books to read:
 
