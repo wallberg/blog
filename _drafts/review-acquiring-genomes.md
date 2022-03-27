@@ -6,9 +6,11 @@ tags: review evolution
 
 In this post I present a summary of my understanding and takeaways from the book Acquiring Genomes: A Theory of the Origins of Species {% cite margulisAcquiringGenomesTheory2002 %}.
 
-The authors are Lynn Margulis and Dorion Sagan. [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) was a microbiologist and evolutionary theorist. [Dorion Sagan](https://en.wikipedia.org/wiki/Dorion_Sagan) is a science writer, essayist, and theorist. This book is one of a number books co-authored by this mother-son team.
+The authors are Lynn Margulis and Dorion Sagan. [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) was a microbiologist and evolutionary theorist. [Dorion Sagan](https://en.wikipedia.org/wiki/Dorion_Sagan) is a science writer, essayist, and theorist. This book is one of a number of books co-authored by this mother-son team.
 
 I found this book a delightful read. The authors beautifully and concisely describe very complex biological systems. Their theory is quite amazing and it was very exciting to be reading this book, with presents a theory which is as much on the cutting edge today as the ??theory of natural selection?? Origin of Species was in its time. The opening quote is a harbinger of the scope and magnitude of this book:
+
+## Forward and Preface
 
 > Any one whose disposition leads him to attach more weight to unexplained difficulties than to the explanation of a certain number of facts will certainly reject my theory. Charles Darwin - The Origin of Species - 1859. {% cite margulisAcquiringGenomesTheory2002 -l x %}
 
@@ -46,7 +48,31 @@ authors present a broader definition
 
 ## Part Three. Planetary Legacy
 
+Vernadsky was a scientist who asserted and demonstrated that life is not made up of special matter but of ordinary matter, primarily salty water and complex minerals.
+
+James Lovelock
+Gaia Theory - the life and non-life components of the Earth's biosphere affect each other. The non-life wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the biosphere is organism- like in many ways.
+
+Calcium is a toxic waste but is recycled into organisms with shells and bones.
+The Earth composed of separate life and inert elements.
+Life is composed of chemical elements and salty water.
+Life affects the planet and the planet affects life in a complex ecosystem.
+Life removed carbon dioxide from the atmosphere preventing it from evaporating away.
+Life flourished before the oxygenated atmosphere which create the oxygen in the atmosphere. Then new life evolved to make use of the oxygen.
+
+Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosystem", but Gaia is a good choice because it is memorable and conveys the organism-like nature of the Earth's biosphere, though it is not considered an actual organism.
+
+> Our new definition of species, that organisms with the same number and kind of integrated genomes in common belong to the same species, depends on the recognition that all nucleated organisms are composite. All are products of integrated symbionts. The idea is that if two organisms (individuals) are members of the same species, then they are composed of precisely the same set of symbionts. Since bacteria are not formed by integration of symbionts, they lack species. The advantage of our analysis is that all nucleated organisms are assignable to species whether or not they ever engage in sex. {% cite margulisAcquiringGenomesTheory2002 -l 142 %}
+
+* bacteria
+* bacteria unite to form first eukaryotes, first species
+
 ## Part Four. Consortia
+
+## Conclusion
+
+A theory of the origins of species: certainly symbiogenesis is the foundation. microbes are the foundation of everything.
+species certainly are occur in a "punctuated" fashion
 
 ## References
 
