@@ -48,17 +48,13 @@ authors present a broader definition
 
 ## Part Three. Planetary Legacy
 
-Vernadsky was a scientist who asserted and demonstrated that life is not made up of special matter but of ordinary matter, primarily salty water and complex minerals.
+First we are introduced to \[...] Vernadsky, a scientist who asserted and demonstrated that life is not made up of special matter, as widely held at the time, but of ordinary matter, primarily salty water and complex minerals.  All life, including humans, are composed of the same materials as the planet itself.
 
-James Lovelock
-Gaia Theory - the life and non-life components of the Earth's biosphere affect each other. The non-life wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the biosphere is organism- like in many ways.
+Next is James Lovelock who introduced the Gaia Hypothesis, essentially that the living and non-living components of the Earth's biosphere affect each other. The non-living matter is not static; it wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the biosphere is organism- like in many ways. The authors contend his hypothesis now has enough evidence to support promotion to a Theory.
 
-Calcium is a toxic waste but is recycled into organisms with shells and bones.
-The Earth composed of separate life and inert elements.
-Life is composed of chemical elements and salty water.
-Life affects the planet and the planet affects life in a complex ecosystem.
-Life removed carbon dioxide from the atmosphere preventing it from evaporating away.
-Life flourished before the oxygenated atmosphere which create the oxygen in the atmosphere. Then new life evolved to make use of the oxygen.
+* Calcium is a toxic waste but is recycled into organisms with shells and bones.
+* Life removed carbon dioxide from the atmosphere preventing it from evaporating away.
+* Life flourished before the oxygenated atmosphere which create the oxygen in the atmosphere. Then new life evolved to make use of the oxygen.
 
 Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosystem", but Gaia is a good choice because it is memorable and conveys the organism-like nature of the Earth's biosphere, though it is not considered an actual organism.
 
@@ -68,6 +64,8 @@ Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosy
 * bacteria unite to form first eukaryotes, first species
 
 ## Part Four. Consortia
+
+%{ include note.html content="Does this section discuss how during times of non-stasis different species may 'consort' by becoming desparate enough to try to mate, and occasionally succeed despite the low probability of doing so?" %}
 
 ## Conclusion
 
