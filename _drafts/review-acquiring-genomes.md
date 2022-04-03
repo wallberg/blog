@@ -8,26 +8,19 @@ In this post I present a summary of my understanding and takeaways from the book
 
 The authors are Lynn Margulis and Dorion Sagan. [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) was a microbiologist and evolutionary theorist. [Dorion Sagan](https://en.wikipedia.org/wiki/Dorion_Sagan) is a science writer, essayist, and theorist. This book is one of a number of books co-authored by this mother-son team.
 
-I found this book a delightful read. The authors beautifully and concisely describe very complex biological systems. Their theory is quite amazing and it was very exciting to be reading this book, with presents a theory which is as much on the cutting edge today as the ??theory of natural selection?? Origin of Species was in its time. The opening quote is a harbinger of the scope and magnitude of this book:
+I found this book a delightful read. The authors beautifully and concisely describe very complex biological systems. Their theory is quite amazing, and it was very exciting to be reading this book, with presents a theory which is as much on the cutting edge today as the ??theory of natural selection?? Origin of Species was in its time.
 
 ## Forward and Preface
 
-> Any one whose disposition leads him to attach more weight to unexplained difficulties than to the explanation of a certain number of facts will certainly reject my theory. Charles Darwin - The Origin of Species - 1859. {% cite margulisAcquiringGenomesTheory2002 -l x %}
+The opening quote immediately provides us the author's view of the scope and magnitude of this book.
 
-In other words, this theory is both radically different from the prevailing theories and still has a ??great many holes??, and just as in the *Origin of Species*, it is backed by volumes of evidence that goes against prevailing thinking, including that of evolutionary theorists. Amazingly in the forward, [Ernst Mayer](https://en.wikipedia.org/wiki/Ernst_Mayr), another well known evolutionary biologist, rightly extols the virtues of the book but also says:
+> Anyone whose disposition leads him to attach more weight to unexplained difficulties than to the explanation of a certain number of facts will certainly reject my theory. Charles Darwin - The Origin of Species - 1859. {% cite margulisAcquiringGenomesTheory2002 -l x %}
 
-> The authors refer to the act of symbiogenesis as an instance of speciation. Some of their statements might lead an uninformed reader to the erroneous conclusion that speciation is always due to symbiogenesis. This is not the case. Speciation--the multiplication of species--and symbiogenesis are two independent, superimposed processes. There is no indication that any of the 10,000 species of birds or the 4,500 species of mammals originated by symbiogenesis. {% cite margulisAcquiringGenomesTheory2002 -l xii %}
+In other words, this theory is both radically different from the prevailing theories and still has a ??great many holes??, and just as in the *Origin of Species*, it is backed by volumes of evidence that goes against prevailing thinking, including that of evolutionary theorists. The forward is provided by [Ernst Mayer](https://en.wikipedia.org/wiki/Ernst_Mayr), another well known evolutionary biologist, who says:
 
-%{ include note.html content="Could the authors be suggesting that symbiogenesis is a precursor/foundation for speciation, rather than an immediate cause? " %}
-and
+> Give the author's dedication to their special field \[microbiology], it is not surprising that they sometimes arrive at interpretations others of us find arguable. Let the readers ignore those that are clearly in conflict with the findings of modern biology. Let him concentrate instead on the authors' brilliant new interpretations and be thankful that they have called our attention to the worlds of life that, despite their importance in the household of nature, are consistently neglected by most biologists. {% cite margulisAcquiringGenomesTheory2002 -l xiii %}
 
-> Another of the authors' evolutionary interpretations is vulnerable as well. They suggest that the incorporation of new genomes in cases of symbiogenesis restores the validity of the time-honored principle of inheritance of acquired characters (what is called "Lamarckian inheritance"). This is not true. The two processes are entirely different. {% cite margulisAcquiringGenomesTheory2002 -l xiii %}
-
-and
-
-> Give the author's dedication to their special field \[microbiology], it is not surprising that they sometimes arrive at interpretations others of us find arguable. Let the readers ignore those that are clearly in conflict with the findings of modern biology. Let him concentrate instead on the authors' billiant new interpretations and be thankful that they have called our attention to the worlds of life that, despite their importance in the household of nature, are consistently neglected by most biologists. {% cite margulisAcquiringGenomesTheory2002 -l xiii %}
-
-I found this unexpectedly compelling. Mayr was willing to recommend the book but also say he felt parts of it are wrong. The authors accepted this characterisation in their book. This setof the cutting edge this book. But I appreciate seeing the civility between scientists who disagree, which does not always occur.
+I found this unexpectedly compelling. Mayr was willing to recommend the book but also say he felt parts of it are wrong. The authors accepted this characterization in their book. This setof the cutting edge this book. But I appreciate seeing the civility between scientists who disagree, which does not always occur.
 
 ## Summary
 
@@ -48,15 +41,19 @@ authors present a broader definition
 
 ## Part Three. Planetary Legacy
 
-First we are introduced to \[...] Vernadsky, a scientist who asserted and demonstrated that life is not made up of special matter, as widely held at the time, but of ordinary matter, primarily salty water and complex minerals.  All life, including humans, are composed of the same materials as the planet itself.
+This section reviews the planetary legacy of life through space and time. We first review how humans have become increasingly specialized in our activities over time. And the authors say "This trend toward increasing specialization is not limited to humans. Specialization increases in ecosystems as they develop". Cells have increased in specialization and their associations have become more specialized and complex. And we can trace the lineage of the complex physiology of human beings back through time:
 
-Next is James Lovelock who introduced the Gaia Hypothesis, essentially that the living and non-living components of the Earth's biosphere affect each other. The non-living matter is not static; it wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the biosphere is organism- like in many ways. The authors contend his hypothesis now has enough evidence to support promotion to a Theory.
+> \[...] we come from symbiotic microbes, from nucleated specialized cells, from wormlike and lungfishlike animals, from reptiles and insectivores, prosimians and anthropoid apes--from form upon form. At no time in the past since the first life began did our lineage or the system itself ever die. {% cite margulisAcquiringGenomesTheory2002 -l 127 %}
+
+Next we are introduced to Vladimir Vernadsky, a scientist who asserted and demonstrated that life is not made up of special matter, as commonly believed at the beginning of the 20th century, but of ordinary matter, primarily salty water and complex minerals.  All life, including humans, are composed of the same materials as the planet itself.
+
+Next is James Lovelock who introduced the Gaia Hypothesis, essentially that the living and non-living components of the Earth's biosphere affect each other. The non-living matter is not static; it wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the biosphere is organism-like in many ways. The authors contend his hypothesis now has enough evidence to support promotion to a Theory.
 
 * Calcium is a toxic waste but is recycled into organisms with shells and bones.
 * Life removed carbon dioxide from the atmosphere preventing it from evaporating away.
 * Life flourished before the oxygenated atmosphere which create the oxygen in the atmosphere. Then new life evolved to make use of the oxygen.
 
-Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosystem", but Gaia is a good choice because it is memorable and conveys the organism-like nature of the Earth's biosphere, though it is not considered an actual organism.
+The authors say Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosystem", but Gaia is a good choice because it is memorable and conveys the organism-like nature of the Earth's biosphere, though it is not considered an actual organism.
 
 > Our new definition of species, that organisms with the same number and kind of integrated genomes in common belong to the same species, depends on the recognition that all nucleated organisms are composite. All are products of integrated symbionts. The idea is that if two organisms (individuals) are members of the same species, then they are composed of precisely the same set of symbionts. Since bacteria are not formed by integration of symbionts, they lack species. The advantage of our analysis is that all nucleated organisms are assignable to species whether or not they ever engage in sex. {% cite margulisAcquiringGenomesTheory2002 -l 142 %}
 
@@ -65,9 +62,19 @@ Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosy
 
 ## Part Four. Consortia
 
-%{ include note.html content="Does this section discuss how during times of non-stasis different species may 'consort' by becoming desparate enough to try to mate, and occasionally succeed despite the low probability of doing so?" %}
+{% include note.html content="Does this section discuss how during times of non-stasis different species may 'consort' by becoming desperate enough to try to mate, and occasionally succeed despite the low probability of doing so?" %}
 
 ## Conclusion
+
+In the forward, what were Ernst Mayer's objections?
+
+> The authors refer to the act of symbiogenesis as an instance of speciation. Some of their statements might lead an uninformed reader to the erroneous conclusion that speciation is always due to symbiogenesis. This is not the case. Speciation--the multiplication of species--and symbiogenesis are two independent, superimposed processes. There is no indication that any of the 10,000 species of birds or the 4,500 species of mammals originated by symbiogenesis. {% cite margulisAcquiringGenomesTheory2002 -l xii %}
+
+{% include note.html content="Could the authors be suggesting that symbiogenesis is a precursor/foundation for speciation, rather than an immediate cause? " %}
+
+and
+
+> Another of the authors' evolutionary interpretations is vulnerable as well. They suggest that the incorporation of new genomes in cases of symbiogenesis restores the validity of the time-honored principle of inheritance of acquired characters (what is called "Lamarckian inheritance"). This is not true. The two processes are entirely different. {% cite margulisAcquiringGenomesTheory2002 -l xiii %}
 
 A theory of the origins of species: certainly symbiogenesis is the foundation. microbes are the foundation of everything.
 species certainly are occur in a "punctuated" fashion
