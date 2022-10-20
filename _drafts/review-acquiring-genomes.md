@@ -45,15 +45,20 @@ This section reviews the planetary legacy of life through space and time. We fir
 
 > \[...] we come from symbiotic microbes, from nucleated specialized cells, from wormlike and lungfishlike animals, from reptiles and insectivores, prosimians and anthropoid apes--from form upon form. At no time in the past since the first life began did our lineage or the system itself ever die. {% cite margulisAcquiringGenomesTheory2002 -l 127 %}
 
-Next we are introduced to Vladimir Vernadsky, a scientist who asserted and demonstrated that life is not made up of special matter, as commonly believed at the beginning of the 20th century, but of ordinary matter, primarily salty water and complex minerals.  All life, including humans, are composed of the same materials as the planet itself.
+Next we are introduced to Vladimir Vernadsky, a scientist who asserted and demonstrated that life is not made up of special matter, as commonly believed at the beginning of the 20th century, but of ordinary matter, primarily salty water and complex minerals.  All life, including humans, are composed of the same materials as the planet itself. While Darwin's legacy is that of connectedness of life through time, Vernadsky's legacy is the connection of life through space.
 
-Next is James Lovelock who introduced the Gaia Hypothesis, essentially that the living and non-living components of the Earth's biosphere affect each other. The non-living matter is not static; it wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the biosphere is organism-like in many ways. The authors contend his hypothesis now has enough evidence to support promotion to a Theory.
+So if all life on the planet is connected and life is made up of the same material as the planet, how are life and the planet connected? Next we meet James Lovelock who introduced the Gaia Hypothesis, that the living and non-living components of the Earth's spheres affect each other. By spheres, I mean biosphere, atmosphere, hydrosphere, lithosphere, etc. The non-living matter is not static; it wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the planet, composed of many entangled spheres is organism-like in many ways. The authors contend his hypothesis now has enough evidence to be considered a Theory.
 
-* Calcium is a toxic waste but is recycled into organisms with shells and bones.
-* Life removed carbon dioxide from the atmosphere preventing it from evaporating away.
-* Life flourished before the oxygenated atmosphere which create the oxygen in the atmosphere. Then new life evolved to make use of the oxygen.
+Here are some of the ways this regulation occurs:
+
+* Soil would not exist without biological activity (e.g. worms, etc.)
+* Calcium is a toxic waste which is recycled into organisms with shells and bones.
+* Life removed carbon dioxide from the atmosphere, thus cooling the Earth and preventing the atmosphere from evaporating away.
+* Life flourished before the oxygenated atmosphere which created the oxygen in the atmosphere. Then new life evolved to make use of the oxygen.
 
 The authors say Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosystem", but Gaia is a good choice because it is memorable and conveys the organism-like nature of the Earth's biosphere, though it is not considered an actual organism.
+
+Next, we explore "eukaryosis in an anoxic world", that is the transition from bacteria with no nucleus, (prokaryotes) in a world without oxygen in the atmosphere to much larger, more complex cells with nuclei (eukaryotes) in an oxygenated atmosphere. These eukaryotic cells make up all non-bacterial life on the planet. Per the authors, this change represents the largest discontinuity in the history of life.
 
 > Our new definition of species, that organisms with the same number and kind of integrated genomes in common belong to the same species, depends on the recognition that all nucleated organisms are composite. All are products of integrated symbionts. The idea is that if two organisms (individuals) are members of the same species, then they are composed of precisely the same set of symbionts. Since bacteria are not formed by integration of symbionts, they lack species. The advantage of our analysis is that all nucleated organisms are assignable to species whether or not they ever engage in sex. {% cite margulisAcquiringGenomesTheory2002 -l 142 %}
 
