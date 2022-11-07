@@ -8,3 +8,12 @@ build:
 
 serve:
 	docker run -it --rm -p 4000:4000 --volume="$(current_dir):/srv/jekyll" blog jekyll serve --watch --drafts
+
+site:
+	python3 -m http.server --directory _site
+
+push-dry-run:
+	neocities push --dry-run _site
+
+push:
+	neocities push _site
