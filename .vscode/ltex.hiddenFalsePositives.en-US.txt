@@ -1,0 +1,1 @@
+{"rule":"WHETHER","sentence":"^\\QThe advantage of our analysis is that all nucleated organisms are assignable to species whether or not they ever engage in sex.\\E$"}
