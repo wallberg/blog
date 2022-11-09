@@ -8,7 +8,7 @@ In this post I present a summary of my understanding and takeaways from the book
 
 The authors are Lynn Margulis and Dorion Sagan. [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) was a microbiologist and evolutionary theorist. [Dorion Sagan](https://en.wikipedia.org/wiki/Dorion_Sagan) is a science writer, essayist, and theorist. This book is one of a number of books co-authored by this mother-son team.
 
-I found this book a delightful read. The authors beautifully and in detail describe very complex biological systems. Their theory is quite amazing, and it was very exciting to be reading this book, with presents a theory which is as much on the cutting edge today as the theory of natural selection was in its time, as presented by Charles Darwin in the Origin of Species {% cite darwinOriginSpecies1859 %}. The difficulty in writing this review was determining what information to include to keep it concise, as so many details are necessarily omitted.
+I found this book a delightful read. The authors beautifully and in detail describe very complex biological systems. Their theory is quite amazing, and it was very exciting to be reading this book, with presents a theory which is as much on the cutting edge today as the theory of natural selection was in its time, as presented by Charles Darwin in the Origin of Species {% cite darwinOriginSpecies1859 %}. The difficulty in writing this review was determining what information to include to keep it concise, as so many details and examples are necessarily omitted.
 
 ## Forward and Preface
 
@@ -44,14 +44,15 @@ The authors review the various concepts of species used by scientists, but propo
 
 > If organism A belongs to the same species as organism B, then both are composed of the same set of integrated genomes, both qualitatively and quantitatively. All organisms that can be assigned to a unique species are products of symbiogenesis. That is, because A and B share the same number of the same different kinds of integrated genomes they are assigned to the same species. {% cite margulisAcquiringGenomesTheory2002 -l 6 %}
 
-Ironically, random mutation is widely held to drive speciation, but best describes the evolutionary process in bacteria, which lack species because they are the only organisms which are not products of symbiotic integration of formerly independence cells.
+Surprisingly, random mutation is widely held to drive speciation, but in actuality best describes the evolutionary process in bacteria, which lack species because they are the only organisms which are not products of symbiotic integration of formerly independence cells.
 
-bacteria - no speciation
-bacteria combined to create more complex eukaryotes, thus creating speciation
-Wikipedia symbiogenesis is limited to this definition
-authors present a broader definition
+The new definition expands beyond macro, sexually-reproducing organisms (?includes smaller, asexually reproducing, protoctist, etc.?), but excludes bacteria.
 
 ## Part Two. The Microbe in Evolution
+
+In this section the authors make the case for the importance of microbes (tiny organisms not visible to the naked eye) in evolution and the history of the heritable.  Metabolism is the set of self-maintaining chemical reactions an organism conducts to maintain itself. Bacteria have at least *twenty* metabolic modes not found in animals and plants.  To vastly oversimplify: animals have heterotrophy (oxygen to respire organic food molecules). Plants are also heterotrophic and add photoautotrophy (carbon dioxide-fixing, oxygen-producing photosynthesis). Bacteria can breathe sulfur or arsenic, transform metallic ions to metal precipitates, photosynthesis without oxygen, transform carbon dioxide and hydrogen to methane, breathe methane, etc. These basic capabilities from bacteria drive all life on earth through various forms of association.
+
+Organisms form associations of all kinds. "Under stress, different kinds of individuals, of very different origins and abilities, often physically associate" {% cite margulisAcquiringGenomesTheory2002 -l 90 %}. These associations sometimes persist over time, dissolve, become corporate mergers, or fuse to become a single new entity. Symbiotic partners can be integrated at different levels: behavioral (by being in physical proximity), metabolic (by exchange of waste and food), gene-product association (protein level dependence), and genetic (merging of genes into a new organism).
 
 ## Part Three. Planetary Legacy
 
@@ -63,6 +64,8 @@ Next we are introduced to Vladimir Vernadsky, a scientist who asserted and demon
 
 So if all life on the planet is connected and life is made up of the same material as the planet, how are life and the planet connected? Next we meet James Lovelock who introduced the Gaia Hypothesis, that the living and non-living components of the Earth's spheres affect each other. By spheres, I mean biosphere, atmosphere, hydrosphere, lithosphere, etc. The non-living matter is not static; it wasn't the way it is in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the planet, composed of many entangled spheres is organism-like in many ways. The authors contend his hypothesis now has enough evidence to be considered a Theory.
 
+{% include note.html content="QUOTE p 68: The simple but important assertion made in this chapter is that the natural selector is Gaia. Gaia, the biosphere, is best understood as the whole Earth's surface of interacting conditions and the biota, living matter, naturally organized into ecosystems. \"Biota\" or total biomass refers to flora, fauna, and microbiota taken together. Natural selection is one of the means by which Gaia, the self-regulating system, maintains itself as a dynamic but stable entity." %}
+
 Here are some of the ways this regulation occurs:
 
 * Soil would not exist without biological activity (e.g. worms, etc.)
@@ -72,7 +75,7 @@ Here are some of the ways this regulation occurs:
 
 The authors say Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosystem", but Gaia is a good choice because it is memorable and conveys the organism-like nature of the Earth's biosphere, though it is not considered an actual organism.
 
-Next, we explore "eukaryosis in an anoxic world", that is the transition from bacteria with no nucleus (prokaryotes) in a world without oxygen in the environment to much larger, more complex cells with nuclei (eukaryotes) in an oxygenated environment. These eukaryotic cells make up all non-bacterial life on the planet. Per the authors, this change represents the largest discontinuity in the history of life and is connected to the origins of species. And thus we arrive at their theory:
+Next, we explore "eukaryosis in an anoxic world", that is the transition from bacteria with no nucleus (prokaryotes) in a world without oxygen in the environment to much larger, more complex cells with nuclei (eukaryotes) in an oxygenated environment. These eukaryotic cells make up all non-bacterial life on the planet. Per the authors, this change represents the largest discontinuity in the history of life and is connected to the origins of species. And thus we arrive at ?a restatement? of their theory:
 
 > Our new definition of species, that organisms with the same number and kind of integrated genomes in common belong to the same species, depends on the recognition that all nucleated organisms are composite. All are products of integrated symbionts. The idea is that if two organisms (individuals) are members of the same species, then they are composed of precisely the same set of symbionts. Since bacteria are not formed by integration of symbionts, they lack species. The advantage of our analysis is that all nucleated organisms are assignable to species whether or not they ever engage in sex. {% cite margulisAcquiringGenomesTheory2002 -l 142 %}
 
