@@ -84,7 +84,15 @@ Next, we explore "eukaryosis in an anoxic world", that is the transition from ba
 
 ## Part Four. Consortia
 
-{% include note.html content="Does this section discuss how during times of non-stasis different species may 'consort' by becoming desperate enough to try to mate, and occasionally succeed despite the low probability of doing so?" %}
+The authors wrap up with more examples of how organisms (and their genomes) consort and produce new genomes. A few examples:
+
+* The larval and adult stages of invertebrates have arisen from hybridization of different organisms, with different genomes
+
+* Fungi and plants which obtain their nitrogen through varied levels of association with cyanobacteria
+
+* Microbial basis for parallel development of eyes in many animal lineages
+
+> In this book we have questioned the adequacy of the popular modern evolutionist explanation of the origins of new, heritable features of life and the evolution of new species and higher, more inclusive taxa. The reliance on accumulation of random mutations in DNA is not so much "wrong" as oversimplified and incomplete: It misses the symbiotic forest for the genetic trees. {% cite margulisAcquiringGenomesTheory2002 -l 201 %}
 
 ## Conclusion
 
@@ -96,7 +104,11 @@ And
 
 > Another of the authors' evolutionary interpretations is vulnerable as well. They suggest that the incorporation of new genomes in cases of symbiogenesis restores the validity of the time-honored principle of inheritance of acquired characteristics (what is called "Lamarckian inheritance"). This is not true. The two processes are entirely different. {% cite margulisAcquiringGenomesTheory2002 -l xiii %}
 
-One of the authors' points is that the hypothesis for speciation through slow, random genetic mutation and drift has been shown to be false. We've never been able to see mutations which are beneficial and the fossil record is full of punctuated equilibrium. The authors seem to me to make a strong case for their theory based the information we do have.
+Confusion of definition of symbiogenesis v acquired genomes; symbiogenesis
+
+Counter example: cows?
+
+One of the authors' points is that the hypothesis for speciation through slow, random genetic mutation and drift has been shown to be incomplete. We've never been able to see mutations which are beneficial and the fossil record is full of punctuated equilibrium. The authors seem to me to make a strong case for their theory based the information we do have.
 
 {% include note.html content="Could the authors be suggesting that symbiogenesis is a precursor/foundation for speciation, rather than an immediate cause? There is also no indication that any species originated by slow, random mutation and drift." %}
 
