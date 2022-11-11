@@ -44,35 +44,25 @@ The authors review the various concepts of species used by scientists, but propo
 
 > If organism A belongs to the same species as organism B, then both are composed of the same set of integrated genomes, both qualitatively and quantitatively. All organisms that can be assigned to a unique species are products of symbiogenesis. That is, because A and B share the same number of the same different kinds of integrated genomes they are assigned to the same species. {% cite margulisAcquiringGenomesTheory2002 -l 6 %}
 
-Surprisingly, random mutation is widely held to drive speciation, but in actuality best describes the evolutionary process in bacteria, which lack species because they are the only organisms which are not products of symbiotic integration of formerly independence cells.
-
-The new definition expands beyond macro, sexually-reproducing organisms (?includes smaller, asexually reproducing, protoctist, etc.?), but excludes bacteria.
+Surprisingly, random mutation is widely held to drive speciation, but in actuality best describes the evolutionary process in bacteria, which lack species because they are the only organisms which are not products of symbiotic integration of formerly independent cells. Their new definition expands beyond macro, sexually-reproducing organisms, but excludes bacteria.
 
 ## Part Two. The Microbe in Evolution
 
-In this section the authors make the case for the importance of microbes (tiny organisms not visible to the naked eye) in evolution and the history of the heritable.  Metabolism is the set of self-maintaining chemical reactions an organism conducts to maintain itself. Bacteria have at least *twenty* metabolic modes not found in animals and plants.  To vastly oversimplify: animals have heterotrophy (oxygen to respire organic food molecules). Plants are also heterotrophic and add photoautotrophy (carbon dioxide-fixing, oxygen-producing photosynthesis). Bacteria can breathe sulfur or arsenic, transform metallic ions to metal precipitates, photosynthesize without oxygen, transform carbon dioxide and hydrogen to methane, breathe methane, etc. These basic capabilities from bacteria drive all life on earth through various forms of association.
+In this section the authors make the case for the importance of microbes (tiny organisms not visible to the naked eye) in evolution and the history of the heritable.  Metabolism is the set of self-maintaining chemical reactions an organism conducts to maintain itself. Bacteria have at least *twenty* metabolic modes not found in animals and plants.  To vastly oversimplify: Animals have heterotrophy (oxygen to respire organic food molecules). Plants are also heterotrophic and add photoautotrophy (carbon dioxide-fixing, oxygen-producing photosynthesis). Bacteria can breathe sulfur or arsenic, transform metallic ions to metal precipitates, photosynthesize without oxygen, transform carbon dioxide and hydrogen to methane, breathe methane, etc. These basic capabilities from bacteria drive all life on earth through various forms of association.
 
 Organisms form associations of all kinds. "Under stress, different kinds of individuals, of very different origins and abilities, often physically associate" {% cite margulisAcquiringGenomesTheory2002 -l 90 %}. These associations sometimes persist over time, dissolve, become corporate mergers, or fuse to become a single new entity. Symbiotic partners can be integrated at different levels: behavioral (by being in physical proximity), metabolic (by exchange of waste and food), gene-product association (protein level dependence), and genetic (merging of genes into a new organism).
 
 ## Part Three. Planetary Legacy
 
-This section reviews the planetary legacy of life through space and time. We first review how humans have become increasingly specialized in our activities over time. And the authors say "This trend toward increasing specialization is not limited to humans. Specialization increases in ecosystems as they develop" {% cite margulisAcquiringGenomesTheory2002 -l ?? %}. Cells have increased in specialization and their associations have become more specialized and complex. And we can trace the lineage of the complex physiology of human beings back through time to the beginning of life on Earth.
+This section reviews the planetary legacy of life through space and time. We first review how humans have become increasingly specialized in our activities over time. And the authors say "This trend toward increasing specialization is not limited to humans. Specialization increases in ecosystems as they develop" {% cite margulisAcquiringGenomesTheory2002 -l 124 %}. Cells have increased in specialization and their associations have become more specialized and complex. And we can trace the lineage of the complex physiology of human beings back through time to the beginning of life on Earth.
 
-Next we are introduced to Vladimir Vernadsky, a scientist who asserted and demonstrated that life is not made up of special matter, as commonly believed at the beginning of the 20th century, but of ordinary matter, primarily salty water and complex minerals.  All life, including humans, are composed of the same materials as the planet itself. While Darwin's legacy is that of connectedness of life through time, Vernadsky's legacy is the connection of life through space.
+First we are introduced to Vladimir Vernadsky, a scientist who asserted and demonstrated that life is not made up of special matter, as commonly believed at the beginning of the 20th century, but of ordinary matter, primarily salty water and complex minerals.  All life, including humans, are composed of the same materials as the planet itself. While Darwin's legacy is that of connectedness of life through time, Vernadsky's legacy is the connection of life through space.
 
 So if all life on the planet is connected and life is made up of the same material as the planet, how are life and the planet connected? Next we meet James Lovelock who introduced the Gaia Hypothesis, that the living and non-living components of the Earth's spheres (biosphere, atmosphere, hydrosphere, lithosphere, etc.) affect each other. The non-living matter is not static; it wasn't the way it is now in the past, the life helped shaped it in the same way it has shaped the life. Life is composed of minerals and chemicals and water, and life regulates itself, so the planet, composed of many entangled spheres is organism-like in many ways. In the authors' opinion Gaia could be called "Earth as a homeostatic chemical system", or "a giant ecosystem", but Gaia is a good choice because it is memorable and conveys the organism-like nature of the Earth's biosphere, though it is not considered an actual organism. The authors contend his hypothesis now has enough evidence to be considered a theory.
 
 > The simple but important assertion made in this chapter is that the natural selector is Gaia. Gaia, the biosphere, is best understood as the whole Earth's surface of interacting conditions and the biota, living matter, naturally organized into ecosystems. "Biota" or total biomass refers to flora, fauna, and microbiota taken together. Natural selection is one of the means by which Gaia, the self-regulating system, maintains itself as a dynamic but stable entity. {% cite margulisAcquiringGenomesTheory2002 -l 68 %}
 
-{% include note.html content="Strike the following examples? or add more add examples to other sections for better balance?" %}
-Here are some of the ways this regulation occurs:
-
-* Soil would not exist without biological activity (e.g. worms, etc.)
-* Calcium is a toxic waste which is recycled into organisms with shells and bones.
-* Life removed carbon dioxide from the atmosphere, thus cooling the Earth and preventing the atmosphere from evaporating away.
-* Life flourished before the oxygenated atmosphere which created the oxygen in the atmosphere. Then new life evolved to make use of the oxygen.
-
-Next, we explore "eukaryosis in an anoxic world", that is the transition from bacteria with no nucleus (prokaryotes) in a world without oxygen in the environment to much larger, more complex cells with nuclei (eukaryotes). These eukaryotic cells make up all non-bacterial life on the planet. Per the authors, this change represents the largest discontinuity in the history of life and is connected to the origins of species. Speciation began when eukaryosis began and has continued to this day through all eukaryotic speciation. And thus we arrive back to the new theory:
+Next, we explore "eukaryosis in an anoxic world", that is the transition from bacteria with no nucleus (prokaryotes) in a world without oxygen in the environment to much larger, more complex cells with nuclei (eukaryotes). These eukaryotic cells make up all non-bacterial life on the planet. Per the authors, this change represents the largest discontinuity in the history of life and is connected to the origins of species. Speciation began when eukaryosis began and has continued to this day through all eukaryotic speciation. And thus we arrive back to the theory:
 
 > Our new definition of species, that organisms with the same number and kind of integrated genomes in common belong to the same species, depends on the recognition that all nucleated organisms are composite. All are products of integrated symbionts. The idea is that if two organisms (individuals) are members of the same species, then they are composed of precisely the same set of symbionts. Since bacteria are not formed by integration of symbionts, they lack species. The advantage of our analysis is that all nucleated organisms are assignable to species whether or not they ever engage in sex. {% cite margulisAcquiringGenomesTheory2002 -l 142 %}
 
@@ -96,14 +86,26 @@ And
 
 > Another of the authors' evolutionary interpretations is vulnerable as well. They suggest that the incorporation of new genomes in cases of symbiogenesis restores the validity of the time-honored principle of inheritance of acquired characteristics (what is called "Lamarckian inheritance"). This is not true. The two processes are entirely different. {% cite margulisAcquiringGenomesTheory2002 -l xiii %}
 
-Confusion of definition of symbiogenesis v acquired genomes; symbiogenesis
+I have found in my reading that the most widely accepted definition of symbiogenesis (aka endosymbiosis) includes the three major bacterial mergers:
 
-Counter example: cows?
+1 Motile eubacterium and protein-synthesizing archeabacterium merge to form the nucleated cell (protoctists, animals, fungi, plants)
+2 Oxygen-respiring proteobacterium joins to become the mitochondrion (animals, fungi, plants)
+3 Photosynthesize cyanobacterium joins to become the chloroplast (plants)
 
-One of the authors' points is that the hypothesis for speciation through slow, random genetic mutation and drift has been shown to be incomplete. We've never been able to see mutations which are beneficial and the fossil record is full of punctuated equilibrium. The authors seem to me to make a strong case for their theory based the information we do have.
+The wikipedia entry adds a reference to [secondary endosymbiosis](https://en.wikipedia.org/wiki/Symbiogenesis#Secondary_endosymbiosis), when a eukaryote engulfs and retains another eukaryote, in a facultative or obligate relationship. The authors propose here that all the wide-ranging forms of genome acquisition (symbioses, consortia, etc.) also fall under the definition of symbiogenesis and are the driving force behind all speciation. They say that is much research and evidence still to be uncovered to further their theory. Mayer agrees, pointing out that there is no evidence of speciation through symbiogenesis for bird and mammal species [^cows]. As far as I know, there is in fact no indication that it was slow, random mutation either. In contrast, the more we look, the more we find punctuated equilibrium. The symbiogenesis theory seems to fit that better.
 
-{% include note.html content="Could the authors be suggesting that symbiogenesis is a precursor/foundation for speciation, rather than an immediate cause? There is also no indication that any species originated by slow, random mutation and drift." %}
+I feel the authors have made a strong case for their theory, and I'm interested in seeing how well their theory stands over time with additional scientific research. "Unexplained difficulties" indeed.
 
 ## References
 
 {% bibliography --cited %}
+
+## Footnotes
+
+[^cows]:
+
+    The authors present at least one counter-example of speciation in mammals: cows. Cows are entirely dependent on the microbes in their rumen to process the grass and other tough vegation they eat. No microbes, no cow. Cows as a species came into existence with the acquisition of their microbial symbionts.
+
+[^lamarck]:
+
+    "Lamarck was correct: Acquired traits can be inherited not as traits but as genomes" {% cite margulisAcquiringGenomesTheory2002 -l 41 %}
