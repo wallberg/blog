@@ -8,7 +8,7 @@ In this post I present a summary of my understanding and takeaways from the book
 
 The authors are Lynn Margulis and Dorion Sagan. [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) was a microbiologist and evolutionary theorist. [Dorion Sagan](https://en.wikipedia.org/wiki/Dorion_Sagan) is a science writer, essayist, and theorist of ecology. This book is one of a number of books co-authored by this mother-son team.
 
-I found this book a delightful read. The authors beautifully and in detail describe very complex biological systems. Their theory is quite amazing, and it was very exciting to be reading this book, which presents a theory as much on the cutting edge today as the theory of natural selection was in its time, as presented by Charles Darwin in the Origin of Species {% cite darwinOriginSpecies1859 %}. The difficulty in writing this review was determining what information to include to keep it concise, as so many details and examples are necessarily omitted.
+I found this book a delightful read. The authors beautifully and in detail describe very complex biological systems. Their theory is quite amazing, and it was very exciting to be reading this book, which presents a theory as much on the cutting edge today as the theory of natural selection was in its time, as presented by Charles Darwin in the Origin of Species {% cite darwinOriginSpeciesMeans1859 %}. The difficulty in writing this review was determining what information to include to keep it concise, as so many details and examples are necessarily omitted.
 
 ## Forward and Preface
 
